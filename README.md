@@ -1,2 +1,1 @@
-# XposedSystemProperty-
-Xposed module system property 
+# Xposed module system property
